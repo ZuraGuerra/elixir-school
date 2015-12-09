@@ -10,9 +10,9 @@ author:
 title: Elixir School
 description: Lessons in the Fundamentals of Elixir
 baseurl: /
-url: https://elixirschool.com
+url: http://localhost:1337
 permalink: pretty
-languages: ['en']
+languages: ['en', 'es']
 default_lang: en
 exclude_from_localization: []
 sections:
@@ -22,6 +22,7 @@ sections:
   - tag: advanced
     label:
       en: Advanced
+      es: Avanzado
   - tag: specifics
     label:
       en: Specifics
